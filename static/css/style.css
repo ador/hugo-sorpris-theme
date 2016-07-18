@@ -1,6 +1,6 @@
 /* A modified Base16 Eighties Colorscheme by Chris Kempson (http://chriskempson.com) */
 
-.base00 { color: #2e2e2e; }
+.base00 { color: #515151; }
 .base01 { color: #393939; }
 .base02 { color: #515151; }
 .base03 { color: #747369; }
@@ -21,7 +21,7 @@
 
 body {
   margin: 0;
-  background-color: #2d2d2d;
+  background-color: #515151;
   color: #f2f0ec;
   line-height: 1.5;
   font-size: 100%;
@@ -51,7 +51,7 @@ div.clearfix {
 article.single section,
 .article-list article {
   background-color: #f2f0ec;
-  color: #2d2d2d;
+  color: #515151;
   padding-left: 128px;
   padding-left: 8rem;
   padding-right: 128px;
@@ -444,7 +444,7 @@ article.single hr {
 
 /* Pygments template by Jan T. Sott (https://github.com/idleberg) */
 
-pre { background: #2d2d2d; color: #f2f0ec }
+pre { background: #515151; color: #f2f0ec }
 
 .highlight .hll { background-color: #515151 }
 .highlight .c { color: #747369 } /* Comment */
