@@ -8,20 +8,20 @@
 .base05 { color: #d3d0c8; }
 .base06 { color: #e8e6df; }
 .base07 { color: #f2f0ec; }
-.base08 { color: #64198c; }
-.base09 { color: #f99157; }
+.base08 { color: #21b783; }
+.base09 { color: #1da273; }
 .base0a { color: #ffcc66; }
 .base0b { color: #198c64; }
 .base0c { color: #66cccc; }
-.base0d { color: #6699cc; }
+.base0d { color: #1D93A7; }
 .base0e { color: #cc99cc; }
-.base0f { color: #197b8c; }
+.base0f { color: #1D93A7; }
 
 /* General Page Layout */
 
 body {
   margin: 0;
-  background-color: #515151;
+  background-color: #745E74;
   color: #f2f0ec;
   line-height: 1.5;
   font-size: 100%;
@@ -60,6 +60,7 @@ article.single section,
   padding-top: 1rem;
   padding-bottom: 16px;
   padding-bottom: 1rem;
+  border-radius: 8px;
 }
 
 @media (max-width: 52em) {
@@ -140,7 +141,7 @@ pre, code {
 /* Header Layout */
 
 header a.path {
-  color: #6699cc;
+  color: #1D93A7;
 }
 
 header span.caret {
@@ -227,7 +228,7 @@ footer a {
 .homepage .category a,
 .homepage .tag,
 .homepage .tag a {
-  color: #cc99cc;
+  color: #25cd92;
 }
 
 .homepage .tag {
@@ -253,7 +254,7 @@ footer a {
 .article-list article h2.headline,
 .article-list article h2.headline a {
   margin-top: 0;
-  color: #6699cc;
+  color: #1D93A7;
 }
 
 .article-list article .meta {
@@ -267,10 +268,10 @@ footer a {
 
 .article-list article .meta .val,
 .article-list article .meta .val a {
-  color: #cc99cc;
+  color: #1D93A7;
 }
 
-.article-list article section.summary a { color: #197b8c; }
+.article-list article section.summary a { color: #1D93A7; }
 
 
 /* Single Post Layout */
@@ -285,7 +286,7 @@ article.single .meta .key {
 }
 
 article.single .meta .val, article.single .meta .val a {
-  color: #cc99cc;
+  color: #1D93A7;
 }
 
 @media (max-width: 52em) {
@@ -324,14 +325,14 @@ article.single section.body {
 
 /* Highlight Colors */
 
-article.single section.body h1 { color: #6699cc; }
+article.single section.body h1 { color: #1D93A7; }
 article.single section.body h2 { color: #198c64; }
-article.single section.body h3 { color: #f99157; }
-article.single section.body h4 { color: #64198c; }
+article.single section.body h3 { color: #1da273; }
+article.single section.body h4 { color: #21b783; }
 article.single section.body h5 { color: #515151; }
 article.single section.body h6 { color: #747369; }
 
-article.single section.body a { color: #197b8c; }
+article.single section.body a { color: #1D93A7; }
 
 /* Article Elements */
 
@@ -444,11 +445,11 @@ article.single hr {
 
 /* Pygments template by Jan T. Sott (https://github.com/idleberg) */
 
-pre { background: #515151; color: #f2f0ec }
+pre { background: #2d2d2d; color: #f2f0ec }
 
-.highlight .hll { background-color: #515151 }
+.highlight .hll { background-color: #2d2d2d }
 .highlight .c { color: #747369 } /* Comment */
-.highlight .err { color: #64198c } /* Error */
+.highlight .err { color: #cc4eda } /* Error */
 .highlight .k { color: #cc99cc } /* Keyword */
 .highlight .l { color: #f99157 } /* Literal */
 .highlight .n { color: #f2f0ec } /* Name */
