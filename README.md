@@ -44,5 +44,5 @@ MIT Licensed, see [LICENSE](https://github.com/ador/hugo-sorpris-theme/blob/mast
 
 [Steve Francia](https://github.com/spf13) for Hugo.  
 [Chris Kempson](http://chriskempson.com) for the Base16 Eighties Colorscheme.  
-[Jan T. Sott](https://github.com/idleberg) for the Pygments template.
-[Hylke Visser](https://github.com/htdvisser) for the Hugo Base16 Theme.
+[Jan T. Sott](https://github.com/idleberg) for the Pygments template.  
+[Hylke Visser](https://github.com/htdvisser) for the Hugo Base16 Theme.  
